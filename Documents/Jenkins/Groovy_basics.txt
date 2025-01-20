@@ -1,0 +1,26 @@
+Groovy:
+
+Groovy is an object oriented language which is based on Java platform.
+
+ex:
+
+class Example {
+   static void main(String[] args) {
+      // Using a simple println statement to print output to the console
+      println('Hello World');
+   }
+}
+
+
+
+1.Identifiers
+
+class Example {
+   static void main(String[] args) {
+      // One can see the use of a semi-colon after each statement
+      def x = 5;
+      println('Hello World'); 
+   }
+}
+
+Here:def is a keyword used in Groovy to define an identifier

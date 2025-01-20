@@ -1,0 +1,9 @@
+1st Project: BSP in Android Not learned kernel side
+
+2nd POC: App Development side:
+
+3rd :Android VHAL C++
+
+4th :Intergation : 
+
+https://www.virtuozzo.com/company/blog/jenkins-cluster-hosting-continuous-integration-delivery/#:~:text=Jenkins%20is%20an%20open%2Dsource,to%20run%20self%2Dhosted%20pipelines.
